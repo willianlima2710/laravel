@@ -1,0 +1,1 @@
+<?php echo $__env->make('forms.contrato', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp73\htdocs\funeraria\resources\views/contrato/create.blade.php ENDPATH**/ ?>

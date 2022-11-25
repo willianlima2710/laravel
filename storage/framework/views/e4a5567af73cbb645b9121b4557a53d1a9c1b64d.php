@@ -1,0 +1,1 @@
+<?php echo $__env->make('forms.ctareceber', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/wfuneraria/public_html/paranaluto/resources/views/ctareceber/edit.blade.php ENDPATH**/ ?>

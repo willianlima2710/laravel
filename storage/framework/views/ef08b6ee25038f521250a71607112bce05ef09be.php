@@ -1,0 +1,1 @@
+<?php echo $__env->make('forms.banco', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/webfuneraria/public_html/paranaluto/resources/views/banco/edit.blade.php ENDPATH**/ ?>

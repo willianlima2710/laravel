@@ -1,0 +1,1 @@
+<?php echo $__env->make('forms.capela', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp73\htdocs\funeraria\resources\views/capela/edit.blade.php ENDPATH**/ ?>

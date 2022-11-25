@@ -1,0 +1,23 @@
+.ui-autocomplete {        
+   font-size:10px;
+   max-height: 250px;
+   overflow-y: auto;
+   overflow-x: hidden;
+   padding-right: 20px;
+} 
+
+.legenda ul {
+	display: flex;
+}
+
+.legenda ul li {  
+	list-style-type: none;
+  padding-right: 14px;
+}
+
+.ui-autocomplete-loading { background:url(http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/images/ui-anim_basic_16x16.gif) no-repeat right center }
+
+table, th, td { 
+  font-size: 11px; 
+  font-family:Verdana;
+}

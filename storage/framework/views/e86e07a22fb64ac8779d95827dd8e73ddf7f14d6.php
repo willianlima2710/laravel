@@ -1,0 +1,1 @@
+<?php echo $__env->make('forms.veiculo', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/wfuneraria/public_html/paranaluto/resources/views/veiculo/edit.blade.php ENDPATH**/ ?>
